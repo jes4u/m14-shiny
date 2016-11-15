@@ -1,4 +1,5 @@
 # Demo 3: Simple RadioInput element
+library(shiny)
 shinyUI(fluidPage(
   
   # Radio buttons
